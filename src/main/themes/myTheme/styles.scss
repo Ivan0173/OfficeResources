@@ -1,0 +1,12 @@
+@import "myTheme-defaults";
+@import "addons";
+@import "myTheme";
+
+.myTheme {
+  @include addons;
+  @include myTheme;
+
+  .row-color{
+    background-color:red;
+  }
+}

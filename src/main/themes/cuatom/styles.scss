@@ -1,0 +1,8 @@
+@import "cuatom-defaults";
+@import "addons";
+@import "cuatom";
+
+.cuatom {
+  @include addons;
+  @include cuatom;
+}
