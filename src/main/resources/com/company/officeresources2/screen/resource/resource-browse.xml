@@ -40,11 +40,6 @@
         <groupTable id="resourcesTable"
                     width="100%"
                     dataContainer="resourcesDc">
-            <actions>
-                <action id="create" type="create"/>
-                <action id="edit" type="edit"/>
-                <action id="remove" type="remove"/>
-            </actions>
             <columns>
                 <column id="office"/>
                 <column id="name"/>

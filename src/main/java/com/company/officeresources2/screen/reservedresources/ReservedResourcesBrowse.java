@@ -6,7 +6,6 @@ import io.jmix.ui.component.GroupTable;
 import io.jmix.ui.component.data.GroupInfo;
 import io.jmix.ui.screen.*;
 import com.company.officeresources2.entity.ReservedResources;
-import liquibase.repackaged.net.sf.jsqlparser.expression.operators.arithmetic.Concat;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.annotation.Nullable;
